@@ -7,3 +7,4 @@ Tahap Pengerjaan Kolaborasi Git:
 
 4. nama = Danendra Dzaki Andita
 5. Alamat = Bumi Prayudan PD 3, Mertoyudan, Magelang
+6. Hobi = main
